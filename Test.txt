@@ -1,7 +1,12 @@
 
+<<<<<<< HEAD
 Hi !
 =======
 <<<<<<< HEAD
+=======
+Hi Mã Hải Tâm !
+
+>>>>>>> parent of 2b57f6c (Revert "commit to test again")
 
 =======
 >>>>>>> parent of 7db7552 (commit to test again)
